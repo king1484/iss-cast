@@ -39,6 +39,5 @@ ISSCast sets your desktop wallpaper to a real-time map of the International Spac
 
 ## Notes
 
-- ISSCast is **closed source**. The installer is provided as-is for personal use.
 - ISS data is sourced from [open-notify.org](http://open-notify.org/).
 - To uninstall: Settings → Apps → ISSCast → Uninstall
