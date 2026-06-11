@@ -4,7 +4,7 @@
 
 ISSCast sets your desktop wallpaper to a real-time map of the International Space Station — updated every 10 seconds. Watch the ISS orbit the Earth, track its path over your location, and see live crew and telemetry data, all without opening a single app.
 
-<video src="https://github.com/king1484/iss-cast/releases/download/v1.0.0/demo.mp4" autoplay loop muted playsinline></video>
+![ISSCast Demo](demo.gif)
 
 ---
 
